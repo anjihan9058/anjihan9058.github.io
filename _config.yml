@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/logo_temp.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "anjihan's blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Anjihan's Page" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,7 +109,7 @@ header:
 
 # Site Author
 author:
-  name             : "anjihan"
+  name             : "Anjihan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student at Pukyong National University."
   location         : "Yangsan, South of korea"
