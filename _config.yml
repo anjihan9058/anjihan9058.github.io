@@ -117,7 +117,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:seongwoo.dev@gmail.com
+      # url: mailto:akasm11@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -129,13 +129,11 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jangseongwoo"
+      # url: "https://github.com/anjihan9058"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "linkedin"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/seongwoo-jang-64607515b/"
+   
       
 
 # Site Footer
@@ -149,7 +147,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jangseongwoo"
+      # url: "https://github.com/anjihan9058"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
