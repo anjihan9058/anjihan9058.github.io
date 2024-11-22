@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "kelpin's blog" # 블로그 이름
+title                    : "OPEN SOURCE SOFTWARE GiTHUB PAGE" # 블로그 이름
 title_separator          : "-"
-subtitle                 : "To the best" # site tagline that appears below site title in masthead
-name                     : "kelpin"
-description              : "kelpin의 블로그입니다. 학습했던 것을 정리해 블로그에 올리고 있습니다." # 블로그 설명
-url                      : https://jangseongwoo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "부경대학교 컴퓨터공학과" # site tagline that appears below site title in masthead
+name                     : "안지한"
+description              : "부경대학교 컴퓨터공학과 202112061 안지한의 github 페이지입니다."
+url                      : https://anjihan9058.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo_temp.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "kelpin's blog" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "anjihan's blog" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
@@ -109,11 +109,11 @@ header:
 
 # Site Author
 author:
-  name             : "kelpin"
-  avatar           : "/assets/images/avata.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "There are no masterpieces made by lazy artists."
-  location         : "Seoul, South of korea"
-  email            : "seongwoo.dev@gmail.com"
+  name             : "anjihan"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am a student at Pukyong National University."
+  location         : "Yangsan, South of korea"
+  email            : "akasm11@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
