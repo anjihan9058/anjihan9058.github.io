@@ -18,6 +18,7 @@ related: true
 
 기술 스택: TCP/IP, Python, C
 프로젝트 개요: 운동 프로그램을 관리하는 시스템에서 클라이언트와 서버가 데이터를 주고받으며, 운동 기록을 저장하고 조회하는 기능을 구현했습니다.
+
 [운동 프로그램 관리 시스템 프로젝트](https://github.com/anjihan9058/anjihan9058.github.io/blob/master/projects/project.cpp)
 
 ## 기술 스택
